@@ -5,7 +5,7 @@ color: White;
 }
 body
 {
-background-image: url("../imgs/Galaxy.jpg");
+background-color: Darkgrey;
 background-repeat: no-repeat;
 background-size: cover;
 }
@@ -14,7 +14,7 @@ h1
 font-family: cursive;
 font-size: 40px;
 color: aliceblue;
-background-color: black
+background-color: black;
 }
 button
 {
